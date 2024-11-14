@@ -1,0 +1,1 @@
+pf config set trace.destination=azureml://subscriptions/67e93b84-fe08-452c-80ea-175d0a3eca56/resourcegroups/rg-genaiops-dev/providers/Microsoft.MachineLearningServices/workspaces/ai-project-gmnvb3yaqiogg
